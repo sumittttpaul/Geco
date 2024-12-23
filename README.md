@@ -2,7 +2,7 @@ Hello, I am Sumeet Kumar Paul and here is one of the front-end gaming template, 
 
 ## Pages
 
-These portfolio contains four sections :-
+These website contains four sections :-
 
 ```bash
 index.html is for home page one
